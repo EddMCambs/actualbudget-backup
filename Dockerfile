@@ -1,7 +1,7 @@
 FROM rclone/rclone:1.66.0
 
-LABEL "repository"="https://github.com/rodriguestiago0/actual-backup" \
-  "homepage"="https://github.com/rodriguestiago0/actual-backup"
+LABEL "repository"="https://github.com/EddMCambs/actual-backup" \
+  "homepage"="https://github.com/EddMCambs/actual-backup"
 
 ARG USER_NAME="backuptool"
 ARG USER_ID="1100"
